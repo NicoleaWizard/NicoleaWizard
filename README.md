@@ -1,3 +1,8 @@
+<h2>Hi, I'm NicoleaWizard! <img src="https://github.githubassets.com/images/mona-whisper.gif" height="24" /></h2>
+<img align='right' src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" height="230"/>
+<p><em>Full Stack / Algorithm Engineer at <a href="https://www.catl.com/">CATL</a> . </em>
+
+-----
 <h2>🚀 Some Tools I Use</h2>
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" />
