@@ -26,4 +26,5 @@
 <p><a href="http://hits.dwyl.com/NicoleaWizard/NicoleaWizard/NicoleaWizard.svg?style=flat-square"><img src="https://hits.dwyl.com/NicoleaWizard/NicoleaWizard/NicoleaWizard.svg?style=flat-square" alt="HitCount"></a></p>
 
 <!-- 贪吃蛇代码贡献图-->
-![](https://raw.githubusercontent.com/NicoleaWizard/NicoleaWizard/main/assets/github-contribution-grid-snake.svg)
+![亮色](https://raw.githubusercontent.com/NicoleaWizard/NicoleaWizard/output/github-contribution-grid-snake.svg)
+![暗色](https://raw.githubusercontent.com/NicoleaWizard/NicoleaWizard/output/github-contribution-grid-snake-dark.svg)
