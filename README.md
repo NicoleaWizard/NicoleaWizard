@@ -1,6 +1,16 @@
 <h2>Hi, I'm NicoleaWizard! <img src="https://github.githubassets.com/images/mona-whisper.gif" height="24" /></h2>
 <img align='right' src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" height="230"/>
-<p><em>Full Stack / Algorithm Engineer at <a href="https://www.catl.com/">CATL</a> . </em>
+<p><em>Full Stack / AI Engineer at <a href="https://www.catl.com/">CATL</a> . </em>
+
+<ul>
+<li>🔭 I’m currently working on <a href="https://www.catl.com/">CATL</a>.</li>
+<li>🧐 Learning about <strong>full stack</strong>, <strong>distributed systems</strong>, and <strong>artificial intelligence</strong>.</li>
+<li>👨‍💻 Most of my projects are available on <a href="https://github.com/NicoleaWizard">Github</a>.</li>
+<li>💬 Ping me about <strong>Vue, Java, Cloud Service, and AI</strong>.</li>
+<li>🏀 My favorite sport is <strong>basketball</strong>.</li>
+<li>🏝️ I enjoy every <strong>journey</strong></li>
+<li>🎉 You are welcome to discuss the <strong>latest technology</strong> with me</li>
+</ul>
 
 -----
 <h2>🚀 Some Tools I Use</h2>
@@ -23,6 +33,9 @@
 <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="25" height="25" />
 </p>
 <img src="https://github-readme-stats.vercel.app/api?username=NicoleaWizard&show_icons=true&count_private=true" alt="NicoleaWizard" />
-<p><a href="http://hits.dwyl.com/NicoleaWizard/NicoleaWizard/NicoleaWizard.svg?style=flat-square"><img src="https://hits.dwyl.com/NicoleaWizard/NicoleaWizard/NicoleaWizard.svg?style=flat-square" alt="HitCount"></a></p>
+
+----
+<h2>🐍 Snake Eats Code</h2>
 
 ![暗色贪吃蛇代码贡献图](https://raw.githubusercontent.com/NicoleaWizard/NicoleaWizard/refs/heads/output/github-contribution-grid-snake.svg%20dist/github-contribution-grid-snake-dark.svg)
+<p><a href="http://hits.dwyl.com/NicoleaWizard/NicoleaWizard/NicoleaWizard.svg?style=flat-square"><img src="https://hits.dwyl.com/NicoleaWizard/NicoleaWizard/NicoleaWizard.svg?style=flat-square" alt="HitCount"></a></p>
