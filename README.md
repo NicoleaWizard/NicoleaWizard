@@ -25,6 +25,4 @@
 <img src="https://github-readme-stats.vercel.app/api?username=NicoleaWizard&show_icons=true&count_private=true" alt="NicoleaWizard" />
 <p><a href="http://hits.dwyl.com/NicoleaWizard/NicoleaWizard/NicoleaWizard.svg?style=flat-square"><img src="https://hits.dwyl.com/NicoleaWizard/NicoleaWizard/NicoleaWizard.svg?style=flat-square" alt="HitCount"></a></p>
 
-<!-- 贪吃蛇代码贡献图-->
-![亮色](https://raw.githubusercontent.com/NicoleaWizard/NicoleaWizard/output/github-contribution-grid-snake.svg)
-![暗色](https://raw.githubusercontent.com/NicoleaWizard/NicoleaWizard/refs/heads/output/github-contribution-grid-snake.svg%20dist/github-contribution-grid-snake-dark.svg)
+![暗色贪吃蛇代码贡献图](https://raw.githubusercontent.com/NicoleaWizard/NicoleaWizard/refs/heads/output/github-contribution-grid-snake.svg%20dist/github-contribution-grid-snake-dark.svg)
