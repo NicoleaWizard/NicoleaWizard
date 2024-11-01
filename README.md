@@ -27,4 +27,4 @@
 
 <!-- 贪吃蛇代码贡献图-->
 ![亮色](https://raw.githubusercontent.com/NicoleaWizard/NicoleaWizard/output/github-contribution-grid-snake.svg)
-![暗色](https://raw.githubusercontent.com/NicoleaWizard/NicoleaWizard/output/github-contribution-grid-snake-dark.svg)
+![暗色](https://raw.githubusercontent.com/NicoleaWizard/NicoleaWizard/refs/heads/output/github-contribution-grid-snake.svg%20dist/github-contribution-grid-snake-dark.svg)
