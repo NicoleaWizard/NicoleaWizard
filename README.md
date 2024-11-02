@@ -1,6 +1,6 @@
 <h2>Hi, I'm NicoleaWizard! <img src="https://github.githubassets.com/images/mona-whisper.gif" height="24" /></h2>
 <img align='right' src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" height="230"/>
-<p><em>Full Stack / AI Engineer at <a href="https://www.catl.com/">CATL</a> . </em>
+<p><em>Full Stack / AI Engineer at <a href="https://www.catl.com/">CATL</a> .</em>
 
 <ul>
 <li>🔭 I’m currently working on <a href="https://www.catl.com/">CATL</a>.</li>
@@ -8,8 +8,9 @@
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/NicoleaWizard">Github</a>.</li>
 <li>💬 Ping me about <strong>Vue, Java, Cloud Service, and AI</strong>.</li>
 <li>🏀 My favorite sport is <strong>basketball</strong>.</li>
-<li>🏝️ I enjoy every <strong>journey</strong></li>
-<li>🎉 You are welcome to discuss the <strong>latest technology</strong> with me</li>
+<li>🏝️ I enjoy every <strong>journey</strong>.</li>
+<li>📬 How to reach me: <a href="">ZhongFang051X@gmail.com</a>.</li>
+<li>🎉 You are welcome to discuss the <strong>latest technology</strong> with me.</li>
 </ul>
 
 -----
