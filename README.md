@@ -9,7 +9,7 @@
 <li>💬 Ping me about <strong>Vue, Java, Cloud Service, and AI</strong>.</li>
 <li>🏀 My favorite sport is <strong>basketball</strong>.</li>
 <li>🏝️ I enjoy every <strong>journey</strong>.</li>
-<li>📬 How to reach me: <a href="">ZhongFang051X@gmail.com</a>.</li>
+<li>📬 How to reach me: <a href="https://zhongfang051x@gmail.com">zhongfang051x@gmail.com</a>.</li>
 <li>🎉 You are welcome to discuss the <strong>latest technology</strong> with me.</li>
 </ul>
 
