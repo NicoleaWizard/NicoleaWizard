@@ -39,4 +39,4 @@
 <h2>🐍 Snake Eats Code</h2>
 
 ![暗色贪吃蛇代码贡献图](https://raw.githubusercontent.com/NicoleaWizard/NicoleaWizard/refs/heads/output/github-contribution-grid-snake.svg%20dist/github-contribution-grid-snake-dark.svg)
-![HitCount](https://hitcount.org/?repo=NicoleaWizard/NicoleaWizard)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=NicoleaWizard.NicoleaWizard)
